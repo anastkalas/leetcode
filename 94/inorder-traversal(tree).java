@@ -1,3 +1,6 @@
+//Time O(n)
+//Space O(1)
+
 public class Solution {
     // Main function to perform inorder traversal
     public List<Integer> inorderTraversal(TreeNode root) {
